@@ -1,7 +1,8 @@
 # Jonathan's Manager Readme
 
 ## Motivation for this document
-This is my Manager README, a document that helps introduce you to my management style. The intended audience is primarily anyone who reports in to me, though anyone is free to read it or even provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a manager, and what I expect from you.
+
+This is my Manager README, it is a document that helps introduce you to my management style. The intended audience is primarily anyone who reports in to me, though anyone is free to read it or even provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a manager, and what I expect from you.
 
 I urge you to hold me accountable to my promises, and to call out anything that might be missing from this document. Without your guidance, I will not be able to improve as a manager.
 
@@ -29,11 +30,11 @@ Additionally: My job is not to tell you exactly what to do and how to do it. It 
 I might have thoughts on your code, and I expect you to have thoughts on mine. In the end, you own your code and if you have a good reason for doing something, you should do it; "use good judgment" is a key part of the Snyk culture, and it applies to code as much as everything else.
 
 ## 1:1s
-A weekly 1:1 (unless you specifically prefer a different cadence) where we’ll work on challenges, goals, and priorities to support you and play to your strengths. As part of this, I’ll do my best to hold a safe space for you and to know you as a person, and connect together as humans to whatever degree feels best for you. I will also share wider context and my own areas of focus or challenge.
+A weekly 1:1 (unless you specifically prefer a different cadence) where we’ll work on challenges, goals, and priorities to support you and your growth as an engineer.
 
-I promise not to leave you guessing what I “really” think or expect you to read between the lines of what I’m saying. If it’s not clear, and you have a nagging feeling, let me know so I can fix it! It’s not intentional. I’ll also reply promptly to you, or let you know when you can expect a reply, if you reach out.
+I promise to give you feedback in a timely manner. If it’s not clear, and you have a nagging feeling, let me know so I can fix it! It’s not intentional. I’ll also reply promptly to you, or let you know when you can expect a reply, if you reach out.
 
-I might take notes but these never leave my computer and are not shared with others without your express permission.
+Your one to one is a safe space where we can talk confidentially about anything you want to share. I might take notes but these never leave my computer and are not shared with others without your express permission.
 
 ## Giving me feedback
 
