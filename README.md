@@ -10,7 +10,7 @@ This is a living document and will be kept on GitHub so there is a history of ho
 
 ## About me
 
-I recently became a team lead at Snyk after being at the company since August 2018 as an engineer. Prior to my time at Snyk I was an Engineering Manager for 2 years at a company called Beamly, and before that I was a Principle SE at Beamly, leading teams building out the companies products.
+I joined RVU in October 2019 as a lead engineer working within the Financial Services team. Prior to my time at RVU I have worked at severval different tech startups, most recently Snyk where I was also a team lead and prior to that I was an Engineering Manager at Beamly.
 
 Outside of work I have a Black Belt in Karate, write lots of little side projects, I love Disney and play video games.
 
@@ -27,7 +27,7 @@ These are in approximate order of importance. If you are not successful and happ
 
 Additionally: My job is not to tell you exactly what to do and how to do it. It is also not to be the "official decision maker" for our team.
 
-I might have thoughts on your code, and I expect you to have thoughts on mine. In the end, you own your code and if you have a good reason for doing something, you should do it; "use good judgment" is a key part of the Snyk culture, and it applies to code as much as everything else.
+I might have thoughts on your code, and I expect you to have thoughts on mine. In the end, you own your code and if you have a good reason for doing something, you should do it; "use good judgment" is a key part of the RVU culture, and it applies to code as much as everything else.
 
 ## 1:1s
 A weekly 1:1 (unless you specifically prefer a different cadence) where we’ll work on challenges, goals, and priorities to support you and your growth as an engineer.
