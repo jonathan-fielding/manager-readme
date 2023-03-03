@@ -1,20 +1,20 @@
-# Jonathan's Manager Readme
+# Jonathan's Readme
 
 ## Motivation for this document
 
-This is my Manager README, it is a document that helps introduce you to my management style. The intended audience is primarily anyone who reports in to me, though anyone is free to read it or even provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a manager, and what I expect from you.
+This is my README, it originally started as a document to introduce others to my management style however as I am no longer managing other engineers it has become more of a document to talk about how I like to work. The intended audience is primarily anyone who works with me day to day me, though anyone is free to read it or even provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a engineer, and what I expect from you.
 
-I urge you to hold me accountable to my promises, and to call out anything that might be missing from this document. Without your guidance, I will not be able to improve as a manager.
+I urge you to hold me accountable to my promises, and to call out anything that might be missing from this document. Without your guidance, I will not be able to improve as a engineer.
 
-This is a living document and will be kept on GitHub so there is a history of how I have evolved as a manager.
+This is a living document and will be kept on GitHub so there is a history of how I have evolved as a engineer.
 
 ## About me
 
-I joined RVU in October 2019 as a lead engineer working within the Financial Services team. Prior to my time at RVU I have worked at severval different tech startups, most recently Snyk where I was also a team lead and prior to that I was an Engineering Manager at Beamly.
+I joined Spendesk in January 2023 as a Staff Engineer working within the Growth group. Prior to my time at Spendesk I have worked at severval different tech startups, most recently at RVU where I worked across multiple teams helping to improve web performance and SEO.
 
-Outside of work I have a Black Belt in Karate, write lots of little side projects, I love Disney and play video games.
+Outside of work I have a Black Belt in Karate, write lots of little side projects, I blog on Medium and of course I couldn't write this without talking about my love for Disney and play video games.
 
-## My role as a team lead
+## My role as a staff engineer
 
 TL;DR: I am here to make sure our team is successful, happy, and working on the things that are most important to help our customers, improve our product, and improve our business. More granularly:
 
